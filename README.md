@@ -1,1 +1,4 @@
-Prêt pour ma formation à la Wild Code School .
+Ici je test un code pour une navbar.
+j'ai l'intention de la modifier et d y apporter des ameliorations.
+toutes les suggestions sont bonne a prendre.
+
